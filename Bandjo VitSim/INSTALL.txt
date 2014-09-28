@@ -1,0 +1,8 @@
+Pour pouvoir utiliser le bandjo.jar il vous fo copier les fichiers suivant dans les repertoires en question:
+
+	RXTXcomm.jar goes in \jre\lib\ext (sous java)
+	rxtxSerial.dll goes in \jre\bin
+
+Afin de pouvoir utiliser le port série correctement.
+
+Puis lancer BANDJO VitSim en double claquant sur bandjo.jar
