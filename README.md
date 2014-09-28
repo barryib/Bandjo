@@ -11,5 +11,7 @@ bandjo.jar à besoin d'utiliser le port série quand il est en mode "éméteur" ou "
 ##Licence
 Creative Commons
 
+##Ecoles
+UdS & ESTEM Promotion 2008 - 2009
+
 ![BANDJO groupe](https://github.com/barryib/Bandjo/blob/master/src/ressources/BANDJO.jpg "BANDJO groupe splash screen")
-Etudiant ESTEM 2008 - 2009, BANDJO groupe
