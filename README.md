@@ -1,5 +1,5 @@
 #Ban'djo Viterbi Simulator
-Band'djo est un simulateur du code correcteur d'erreur utilisant l'[algorithme de Viterbi](http://fr.wikipedia.org/wiki/Algorithme_de_Viterbi).
+Band'djo est un simulateur de code correcteur d'erreur utilisant l'[algorithme de Viterbi](http://fr.wikipedia.org/wiki/Algorithme_de_Viterbi).
 
 Cet simulateur a été développé pour un projet de classe de 3 semaines en 2009.
 
